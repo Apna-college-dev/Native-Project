@@ -14,6 +14,7 @@ import { Button, Icon } from "@rneui/base";
 import TextInput from "@/components/utils/TextInput";
 
 // const logoimg = require("../../assets/Group 207.png");
+// const logoimg = require("../../assets/Group 207.png");
 
 const validate = (values) => {
   const errors = {};
